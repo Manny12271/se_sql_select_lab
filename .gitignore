@@ -1,1 +1,3 @@
 .venv
+echo ".python-version" >> .gitignore
+echo "__pycache__/" >> .gitignore
